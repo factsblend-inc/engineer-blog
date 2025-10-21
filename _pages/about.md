@@ -4,26 +4,10 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Our platform
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+The potential to change the lives of merchants everywhere. We believe that by providing valuable insights into customer behavior, we can help businesses make informed decisions, drive growth and make a positive impact on the world. We're more than just a software company, we're a group of problem solvers and change makers who want to make a difference in the universe. Join us on this journey and let's make a mark together.
 
-## Features
+## Our mission
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Our mission is to make customer data accessible, actionable and impactful, and as a software engineer, you'll play a critical role in making this vision a reality. With a talented and passionate team by your side, you'll have the opportunity to grow and develop your skills while making a meaningful impact on the success of merchants everywhere. So why wait? Let's build something amazing together!!
